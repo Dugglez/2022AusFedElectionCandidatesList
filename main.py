@@ -144,7 +144,8 @@ def setup():
                         print("This candidate is male.")
                     else:
                         print("This candidate is female.")
-                    if selected_candidate.incumbent == 1:
+                    elecName = selected_electorate.incumbent.split(" ")
+                    if selected_candidate.firstName == elecName[0] and selected_candidate.lastName == elecName[1]:
                         print("This candidate is the incumbent.")
                     else:
                         print("This candidate is not the incumbent.")
