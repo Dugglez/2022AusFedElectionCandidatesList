@@ -106,6 +106,8 @@ def setup():
                             format_counter = 0
                     print(list_of_electorates)
             while not finished_with_electorate:
+                for i in candidateslist:
+                    i.candidateNumber = 0
                 os.system('cls')
                 print("You have selected the electorate of " + selected_electorate.name + ".")
                 print("This electorate is in " + selected_electorate.state + ".")
