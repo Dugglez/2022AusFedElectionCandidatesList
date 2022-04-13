@@ -1,636 +1,879 @@
-Adelaide,SA,Steve,Georganas,ALP,Labor,M,1
-Adelaide,SA,Rebecca,Galdies,GRN,Greens,F,0
-Adelaide,SA,Amy,Grantham,LIB,Liberal,F,0
+seat,state,first_name,surname,party_code,party_name,gender,incumbent
 Adelaide,SA,Sean,Allwood,UAP,United Australia,M,0
-Aston,VIC,Mary,Doyle,ALP,Labor,F,0
-Aston,VIC,Percy,Nash,GRN,Greens,M,0
-Aston,VIC,Alan,Tudge,LIB,Liberal,M,1
+Adelaide,SA,Rebecca,Galdies,GRN,Greens,F,0
+Adelaide,SA,Steve,Georganas,ALP,Labor,M,1
+Adelaide,SA,Amy,Grantham,LIB,Liberal,F,0
+Adelaide,SA,Matthew,McMillan,FUS,Fusion,M,0
 Aston,VIC,Ryan,Bruce,TNL,New Liberals,M,0
+Aston,VIC,Asher,Cookson,GRN,Greens,M,0
+Aston,VIC,Mary,Doyle,ALP,Labor,F,0
 Aston,VIC,Rebekah,Spelman,UAP,United Australia,F,0
+Aston,VIC,Alan,Tudge,LIB,Liberal,M,1
+Ballarat,VIC,Ben,Green,LIB,Liberal,M,0
+Ballarat,VIC,Chris,Kelly,GAP,Great Australian Party,M,0
 Ballarat,VIC,Catherine,King,ALP,Labor,F,1
-Ballarat,VIC,Andrew,Kilmartin,LIB,Liberal,M,0
+Ballarat,VIC,Julia,McGrath,LDP,Liberal Democrats,F,0
 Ballarat,VIC,Terri,Pryse-Smith,UAP,United Australia,F,0
-Banks,NSW,Zhi,Soon,ALP,Labor,M,0
 Banks,NSW,David,Coleman,LIB,Liberal,M,1
 Banks,NSW,Diane,Markantonakis,TNL,New Liberals,F,0
 Banks,NSW,Marika,Momircevski,UAP,United Australia,F,0
+Banks,NSW,Isaac,Nasedra,GRN,Greens,M,0
+Banks,NSW,Zhi,Soon,ALP,Labor,M,0
 Barker,SA,Rosa,Hillam,GRN,Greens,F,0
 Barker,SA,Tony,Pasin,LIB,Liberal,M,1
 Barker,SA,David,Swiggs,UAP,United Australia,M,0
 Barton,NSW,Linda,Burney,ALP,Labor,F,1
-Barton,NSW,Mahmoud,Mando,UAP,United Australia,M,0
+Barton,NSW,Dimitri,Honos,UAP,United Australia,M,0
+Barton,NSW,Phillip,Pollard,ON,One Nation,M,0
+Barton,NSW,Taylor,Vandijk,GRN,Greens,F,0
+Bass,TAS,Bridget,Archer,LIB,Liberal,F,1
+Bass,TAS,Melanie,Davy,ON,One Nation,F,0
 Bass,TAS,Ross,Hart,ALP,Labor,M,0
 Bass,TAS,Cecily,Rosol,GRN,Greens,F,0
-Bass,TAS,Bridget,Archer,LIB,Liberal,F,1
+Bass,TAS,Bob,Salt,JLN,Jacqui Lambie Network,M,0
 Bass,TAS,Kyle,Squibb,UAP,United Australia,M,0
-Bean,ACT,David,Smith,ALP,Labor,M,1
-Bean,ACT,Kathryn,Savery,GRN,Greens,F,0
 Bean,ACT,Jamie,Christie,IND,Independent,M,0
 Bean,ACT,Jane,Hiatt,LIB,Liberal,F,0
 Bean,ACT,Tracey,Page,UAP,United Australia,F,0
+Bean,ACT,Kathryn,Savery,GRN,Greens,F,0
+Bean,ACT,David,Smith,ALP,Labor,M,1
+Bendigo,VIC,Matthew,Bansemer,LDP,Liberal Democrats,M,0
 Bendigo,VIC,Lisa,Chesters,ALP,Labor,F,1
-Bendigo,VIC,Cate,Sinclair,GRN,Greens,F,0
+Bendigo,VIC,Ben,Mihail,ON,One Nation,M,0
 Bendigo,VIC,Megan,Purcell,LIB,Liberal,F,0
+Bendigo,VIC,Cate,Sinclair,GRN,Greens,F,0
 Bendigo,VIC,Elijah,Suares,UAP,United Australia,M,0
-Bennelong,NSW,Eric,Zhang,TNL,New Liberals,M,0
+Bennelong,NSW,John,August,FUS,Fusion,M,0
 Bennelong,NSW,Rhys,Collyer,UAP,United Australia,M,0
-Berowra,NSW,Nicholas,Samios,LDP,Liberal Democrats,M,0
+Bennelong,NSW,Kyinzom,Dhongdue,DA,Democratic Alliance,F,0
+Bennelong,NSW,Simon,Kennedy,LIB,Liberal,M,0
+Bennelong,NSW,Jerome,Laxale,ALP,Labor,M,0
+Bennelong,NSW,Eric,Zhang,TNL,New Liberals,M,0
+Berowra,NSW,Brendan,Clarke,FUS,Fusion,M,0
 Berowra,NSW,Julian,Leeser,LIB,Liberal,M,1
 Berowra,NSW,Christopher,Martinic,UAP,United Australia,M,0
-Blair,QLD,Angela,Lowery,AJP,Animal Justice,F,0
-Blair,QLD,Shayne,Neumann,ALP,Labor,M,1
-Blair,QLD,Danielle,Mutton,GRN,Greens,F,0
-Blair,QLD,Michelle,Jaques,LDP,Liberal Democrats,F,0
+Berowra,NSW,Tania,Salitra,GRN,Greens,F,0
+Berowra,NSW,Nicholas,Samios,LDP,Liberal Democrats,M,0
 Blair,QLD,Sam,Biggins,LNP,Liberal National,M,0
 Blair,QLD,Quinton,Cunningham,UAP,United Australia,M,0
+Blair,QLD,Michelle,Jaques,LDP,Liberal Democrats,F,0
+Blair,QLD,Angela,Lowery,AJP,Animal Justice,F,0
+Blair,QLD,Danielle,Mutton,GRN,Greens,F,0
+Blair,QLD,Shayne,Neumann,ALP,Labor,M,1
+Blair,QLD,Maria,Pitman,AVP,Australian Values,F,0
+Blair,QLD,Liz,Suduk,ON,One Nation,F,0
 Blaxland,NSW,Jason,Clare,ALP,Labor,M,1
 Blaxland,NSW,Elvis,Sinosic,UAP,United Australia,M,0
-Bonner,QLD,Tabatha,Young,ALP,Labor,F,0
-Bonner,QLD,Bernard,Lakey,GRN,Greens,M,0
-Bonner,QLD,Ross,Vasta,LNP,Liberal National,M,1
-Bonner,QLD,Kim,Prior,TNL,New Liberals,F,0
 Bonner,QLD,Serge,Diklitch,UAP,United Australia,M,0
-Boothby,SA,Louise,Miller-Frost,ALP,Labor,F,0
+Bonner,QLD,Bernard,Lakey,GRN,Greens,M,0
+Bonner,QLD,Amanda,Neil,ON,One Nation,F,0
+Bonner,QLD,Kim,Prior,TNL,New Liberals,F,0
+Bonner,QLD,Ross,Vasta,LNP,Liberal National,M,1
+Bonner,QLD,Tabatha,Young,ALP,Labor,F,0
 Boothby,SA,Jeremy,Carter,GRN,Greens,M,0
-Boothby,SA,Jo,Dyer,IND,Independent,F,0
-Boothby,SA,Rachel,Swift,LIB,Liberal,F,0
 Boothby,SA,Graeme,Clark,UAP,United Australia,M,0
+Boothby,SA,Jo,Dyer,IND,Independent,F,0
+Boothby,SA,Louise,Miller-Frost,ALP,Labor,F,0
+Boothby,SA,Rachel,Swift,LIB,Liberal,F,0
 Bowman,QLD,Donisha,Duff,ALP,Labor,F,0
+Bowman,QLD,Phil,Johnson,TNL,New Liberals,M,0
 Bowman,QLD,Ian,Mazlin,GRN,Greens,M,0
 Bowman,QLD,Henry,Pike,LNP,Liberal National,M,0
 Bowman,QLD,Mary-Jane,Stevens,UAP,United Australia,F,0
-Braddon,TAS,Chris,Lynch,ALP,Labor,M,0
+Bowman,QLD,Walter,Todd,ON,One Nation,M,0
+Braddon,TAS,Darren,Bobbermien,UAP,United Australia,M,0
 Braddon,TAS,Darren,Briggs,GRN,Greens,M,0
 Braddon,TAS,Craig,Garland,IND,Independent,M,0
 Braddon,TAS,Sophie,Lehmann,JLN,Jacqui Lambie Network,F,0
+Braddon,TAS,Chris,Lynch,ALP,Labor,M,0
+Braddon,TAS,Ludo,Mineur,ON,One Nation,M,0
 Braddon,TAS,Gavin,Pearce,LIB,Liberal,M,1
-Braddon,TAS,Darren,Bobbermien,UAP,United Australia,M,0
-Bradfield,NSW,Tom,Sellers,IND,Independent,M,0
 Bradfield,NSW,Nicolette,Boele,IND,Independent,F,0
-Bradfield,NSW,Janine,Kitson,IND,Independent,F,0
+Bradfield,NSW,David,Bridgen,ALP,Labor,M,0
+Bradfield,NSW,Martin,Cousins,GRN,Greens,M,0
 Bradfield,NSW,Paul,Fletcher,LIB,Liberal,M,1
-Bradfield,NSW,Anne,Matheson,TNL,New Liberals,F,0
 Bradfield,NSW,Rob,Fletcher,UAP,United Australia,M,0
+Bradfield,NSW,Janine,Kitson,IND,Independent,F,0
+Bradfield,NSW,Anne,Matheson,TNL,New Liberals,F,0
+Bradfield,NSW,Tom,Sellers,IND,Independent,M,0
+Brand,WA,Jayne,Crichton,CHR,Australian Christians,F,0
+Brand,WA,Andrew,Gleeson,GAP,Great Australian Party,M,0
+Brand,WA,Peter,Hudson,LIB,Liberal,M,0
 Brand,WA,Madeleine,King,ALP,Labor,F,1
 Brand,WA,Heather,Lonsdale,GRN,Greens,F,0
-Brand,WA,Peter,Hudson,LIB,Liberal,M,0
+Brand,WA,Alison,Marshall,LDP,Liberal Democrats,F,0
+Brand,WA,Michael,O'Loghlen,WAP,Western Australia Party,M,0
 Brand,WA,David,Pike,UAP,United Australia,M,0
-Brisbane,QLD,Madonna,Jarrett,ALP,Labor,F,0
 Brisbane,QLD,Stephen,Bates,GRN,Greens,M,0
 Brisbane,QLD,Trevor,Evans,LNP,Liberal National,M,1
+Brisbane,QLD,Madonna,Jarrett,ALP,Labor,F,0
+Brisbane,QLD,Tiana,Kennedy,AJP,Animal Justice,F,0
 Brisbane,QLD,Justin,Knudson,UAP,United Australia,M,0
+Brisbane,QLD,Rebecca,Lloyd,ON,One Nation,F,0
+Bruce,VIC,Matt,Babet,UAP,United Australia,M,0
 Bruce,VIC,Julian,Hill,ALP,Labor,M,1
 Bruce,VIC,Matthew,Kirwan,GRN,Greens,M,0
 Bruce,VIC,James,Moody,LIB,Liberal,M,0
-Bruce,VIC,Matt,Babet,UAP,United Australia,M,0
-Burt,WA,Matt,Keogh,ALP,Labor,M,1
+Bruce,VIC,Christine,Skrobo,LDP,Liberal Democrats,F,0
+Burt,WA,Travis,Carter,ON,One Nation,M,0
 Burt,WA,Daniel,Garlett,GRN,Greens,M,0
 Burt,WA,David,Goode,LIB,Liberal,M,0
-Burt,WA,Travis,Carter,ON,One Nation,M,0
+Burt,WA,Matt,Keogh,ALP,Labor,M,1
 Burt,WA,Joshua,McCurry,UAP,United Australia,M,0
-Calare,NSW,Kate,Hook,IND,Independent,F,0
+Burt,WA,Warnar,Spyker,CHR,Australian Christians,M,0
+Calare,NSW,Joaquim,de Lima,LDP,Liberal Democrats,M,0
 Calare,NSW,Andrew,Gee,NAT,Nationals,M,1
-Calare,NSW,Stacey,Whittaker,ON,One Nation,F,0
+Calare,NSW,Kate,Hook,IND,Independent,F,0
 Calare,NSW,Adam,Jannis,UAP,United Australia,M,0
-Calwell,VIC,Maria,Vamvakinou,ALP,Labor,F,1
+Calare,NSW,Kay,Nankervis,GRN,Greens,F,0
+Calare,NSW,Stacey,Whittaker,ON,One Nation,F,0
 Calwell,VIC,Natalie,Abboud,GRN,Greens,F,0
-Calwell,VIC,David,Lau,LIB,Liberal,M,0
 Calwell,VIC,Joshua,Naim,UAP,United Australia,M,0
 Calwell,VIC,Jerome,Small,VS,Victorian Socialists,M,0
-Canberra,ACT,Alicia,Payne,ALP,Labor,F,1
+Calwell,VIC,Maria,Vamvakinou,ALP,Labor,F,1
 Canberra,ACT,Tim,Hollo,GRN,Greens,M,0
 Canberra,ACT,Slade,Minson,LIB,Liberal,M,0
+Canberra,ACT,Alicia,Payne,ALP,Labor,F,1
 Canberra,ACT,Catherine,Smith,UAP,United Australia,F,0
+Canning,WA,Andriette,du Plessis,CHR,Australian Christians,F,0
+Canning,WA,Andrew,Hastie,LIB,Liberal,M,1
 Canning,WA,Amanda,Hunt,ALP,Labor,F,0
 Canning,WA,Jodie,Moffat,GRN,Greens,F,0
-Canning,WA,Andrew,Hastie,LIB,Liberal,M,1
+Canning,WA,Matthew,Thompson,LDP,Liberal Democrats,M,0
 Canning,WA,James,Waldeck,UAP,United Australia,M,0
-Capricornia,QLD,Russell,Robertson,ALP,Labor,M,0
-Capricornia,QLD,Mick,Jones,GRN,Greens,M,0
-Capricornia,QLD,Steve,Murphy,LDP,Liberal Democrats,M,0
-Capricornia,QLD,Michelle,Landry,LNP,Liberal National,F,1
+Capricornia,QLD,Paula,Ganfield,IMO,Informed Medical Options,F,0
 Capricornia,QLD,Nathan,Harding,UAP,United Australia,M,0
-Casey,VIC,Bill,Brindle,ALP,Labor,M,0
-Casey,VIC,Jenny,Game,GRN,Greens,F,0
-Casey,VIC,Aaron,Violi,LIB,Liberal,M,0
+Capricornia,QLD,Mick,Jones,GRN,Greens,M,0
+Capricornia,QLD,Michelle,Landry,LNP,Liberal National,F,1
+Capricornia,QLD,Steve,Murphy,LDP,Liberal Democrats,M,0
+Capricornia,QLD,Russell,Robertson,ALP,Labor,M,0
+Capricornia,QLD,Kylee,Stanton,ON,One Nation,F,0
 Casey,VIC,Anthony,Bellve,UAP,United Australia,M,0
+Casey,VIC,Bill,Brindle,ALP,Labor,M,0
+Casey,VIC,Claire,Ferres Miles,IND,Independent,F,0
+Casey,VIC,Jenny,Game,GRN,Greens,F,0
+Casey,VIC,Paul,Murphy,ON,One Nation,M,0
+Casey,VIC,Aaron,Violi,LIB,Liberal,M,0
+Chifley,NSW,Amit,Batish,ON,One Nation,M,0
 Chifley,NSW,Ed,Husic,ALP,Labor,M,1
-Chifley,NSW,Ben,Roughley,LDP,Liberal Democrats,M,0
 Chifley,NSW,Zvetanka,Raskov,UAP,United Australia,F,0
+Chifley,NSW,Ben,Roughley,LDP,Liberal Democrats,M,0
+Chifley,NSW,Sujan,Selven,GRN,Greens,M,0
+Chisholm,VIC,Ryan,Dare,ACP,Citizens Party,M,0
 Chisholm,VIC,Carina,Garland,ALP,Labor,F,0
-Chisholm,VIC,Max,Mok,DA,Democratic Alliance,M,0
-Chisholm,VIC,Luke,Arthur,GRN,Greens,M,0
-Chisholm,VIC,Gladys,Liu,LIB,Liberal,F,1
 Chisholm,VIC,Melanie,Kempson,UAP,United Australia,F,0
+Chisholm,VIC,Gladys,Liu,LIB,Liberal,F,1
+Chisholm,VIC,Max,Mok,DA,Democratic Alliance,M,0
+Chisholm,VIC,Sarah,Newman,GRN,Greens,F,0
+Clark,TAS,Will,Coats,LIB,Liberal,M,0
 Clark,TAS,Simon,Davis,ALP,Labor,M,0
+Clark,TAS,Sandra,Galloway,UAP,United Australia,F,0
 Clark,TAS,Janet,Shelley,GRN,Greens,F,0
 Clark,TAS,Andrew,Wilkie,IND,Independent,M,1
-Clark,TAS,Sandra,Galloway,UAP,United Australia,F,0
-Cook,NSW,Scott,Morrison,LIB,Liberal,M,1
+Cook,NSW,Gaye,Cameron,ON,One Nation,F,0
+Cook,NSW,Catherine,Dyson,GRN,Greens,F,0
 Cook,NSW,Jacqueline,Guinane,UAP,United Australia,F,0
+Cook,NSW,Scott,Morrison,LIB,Liberal,M,1
+Cooper,VIC,Jadon,Atkinson,LIB,Liberal,M,0
+Cooper,VIC,Rabin,Bangaar,AJP,Animal Justice,M,0
 Cooper,VIC,Ged,Kearney,ALP,Labor,F,1
-Cooper,VIC,Celeste,Liddle,GRN,Greens,F,0
-Cooper,VIC,Maxwell,Gratton,LIB,Liberal,M,0
 Cooper,VIC,Adam,La Rosa,UAP,United Australia,M,0
 Cooper,VIC,Kath,Larkin,VS,Victorian Socialists,F,0
+Cooper,VIC,Celeste,Liddle,GRN,Greens,F,0
+Cooper,VIC,Adrian,Whitehead,FUS,Fusion,M,0
+Corangamite,VIC,Daniel,Abou-zeid,UAP,United Australia,M,0
+Corangamite,VIC,Stephanie,Asher,LIB,Liberal,F,0
+Corangamite,VIC,Paul,Barker,LDP,Liberal Democrats,M,0
 Corangamite,VIC,Libby,Coker,ALP,Labor,F,1
 Corangamite,VIC,Alex,Marshall,GRN,Greens,F,0
 Corangamite,VIC,Tom,Roe,IND,Independent,M,0
-Corangamite,VIC,Paul,Barker,LDP,Liberal Democrats,M,0
-Corangamite,VIC,Paul,Barker,LDP,Liberal Democrats,M,0
-Corangamite,VIC,Stephanie,Asher,LIB,Liberal,F,0
-Corangamite,VIC,Daniel,Abou-zeid,UAP,United Australia,M,0
-Corio,VIC,Richard,Marles,ALP,Labor,M,1
-Corio,VIC,Simon,Northeast,GRN,Greens,M,0
-Corio,VIC,Amy,Johnson,LIB,Liberal,F,0
+Corangamite,VIC,Meg,Watkins,AJP,Animal Justice,F,0
+Corio,VIC,Naomi,Adams,AJP,Animal Justice,F,0
 Corio,VIC,Sue,Bull,SA,Socialist Alliance,F,0
+Corio,VIC,Richard,Marles,ALP,Labor,M,1
 Corio,VIC,Morris,Murdock,UAP,United Australia,M,0
+Corio,VIC,Simon,Northeast,GRN,Greens,M,0
+Corio,VIC,Manish,Patel,LIB,Liberal,M,0
+Corio,VIC,Maxim,Payne,LDP,Liberal Democrats,M,0
 Cowan,WA,Anne,Aly,ALP,Labor,F,1
-Cowan,WA,Isabella,Tripp,GRN,Greens,F,0
+Cowan,WA,Michael,Anagno,AJP,Animal Justice,M,0
 Cowan,WA,Vince,Connelly,LIB,Liberal,M,1
 Cowan,WA,Claire,Hand,UAP,United Australia,F,0
-Cowper,NSW,Carolyn,Heise,IND,Independent,F,0
+Cowan,WA,Sylvie,Iradukunda,CHR,Australian Christians,F,0
+Cowan,WA,Isabella,Tripp,GRN,Greens,F,0
+Cowper,NSW,Faye,Aspiotis,ON,One Nation,F,0
 Cowper,NSW,Pat,Conaghan,NAT,Nationals,M,1
 Cowper,NSW,Joshua,Fairhall,UAP,United Australia,M,0
-Cunningham,NSW,Alison,Byrnes,ALP,Labor,F,0
-Cunningham,NSW,Michael,Glover,LDP,Liberal Democrats,M,0
+Cowper,NSW,Carolyn,Heise,IND,Independent,F,0
+Cowper,NSW,Keith,McMullen,ALP,Labor,M,0
+Cowper,NSW,Timothy,Nott,GRN,Greens,M,0
 Cunningham,NSW,Benjamin,Britton,UAP,United Australia,M,0
-Curtin,WA,Cameron,Pidgeon,GRN,Greens,M,0
+Cunningham,NSW,Alison,Byrnes,ALP,Labor,F,0
+Cunningham,NSW,Alexis,Garnaut-Miller,ACP,Citizens Party,F,0
+Cunningham,NSW,Michael,Glover,LDP,Liberal Democrats,M,0
+Cunningham,NSW,Dylan,Green,GRN,Greens,M,0
+Curtin,WA,Bill,Burn,WAP,Western Australia Party,M,0
 Curtin,WA,Kate,Chaney,IND,Independent,F,0
 Curtin,WA,Celia,Hammond,LIB,Liberal,F,1
+Curtin,WA,Cameron,Pidgeon,GRN,Greens,M,0
+Curtin,WA,Yannick,Spencer,ALP,Labor,M,0
 Curtin,WA,Ladeisha,Verhoeff,UAP,United Australia,F,0
+Dawson,QLD,Paula,Creen,GRN,Greens,F,0
+Dawson,QLD,Julie,Hall,ON,One Nation,F,0
 Dawson,QLD,Shane,Hamilton,ALP,Labor,M,0
 Dawson,QLD,Andrew,Willcox,LNP,Liberal National,M,0
 Dawson,QLD,Christian,Young,UAP,United Australia,M,0
+Deakin,VIC,Bianca,Gidley,UAP,United Australia,F,0
 Deakin,VIC,Matthew,Gregg,ALP,Labor,M,0
 Deakin,VIC,Rob,Humphreys,GRN,Greens,M,0
 Deakin,VIC,Michael,Sukkar,LIB,Liberal,M,1
-Deakin,VIC,Bianca,Gidley,UAP,United Australia,F,0
-Dickson,QLD,Ali,France,ALP,Labor,F,0
 Dickson,QLD,Vinnie,Batten,GRN,Greens,M,0
 Dickson,QLD,Peter,Dutton,LNP,Liberal National,M,1
-Dickson,QLD,Stephanie,Olsson,UAP,United Australia,F,0
-Dobell,NSW,Emma,McBride,ALP,Labor,F,1
+Dickson,QLD,Ali,France,ALP,Labor,F,0
+Dickson,QLD,Tamera,Gibson,ON,One Nation,F,0
+Dickson,QLD,Alina,Ward,UAP,United Australia,F,0
+Dobell,NSW,Geoff,Barnes,FUS,Fusion,M,0
+Dobell,NSW,Michael,Feneley,LIB,Liberal,M,0
 Dobell,NSW,Dean,Mackin,UAP,United Australia,M,0
+Dobell,NSW,Emma,McBride,ALP,Labor,F,1
+Dobell,NSW,Scott,Rickard,GRN,Greens,M,0
+Dobell,NSW,Martin,Stevenson,ON,One Nation,M,0
+Dunkley,VIC,Sharn,Coombes,LIB,Liberal,F,0
+Dunkley,VIC,Adrian,Irvine,UAP,United Australia,M,0
 Dunkley,VIC,Peta,Murphy,ALP,Labor,F,1
 Dunkley,VIC,Liam,O'Brien,GRN,Greens,M,0
 Dunkley,VIC,Damian,Willis,LDP,Liberal Democrats,M,0
-Dunkley,VIC,Sharn,Coombes,LIB,Liberal,F,0
-Dunkley,VIC,Adrian,Irvine,UAP,United Australia,M,0
-Durack,WA,Jeremiah,Riley,ALP,Labor,M,0
-Durack,WA,Bianca,McNeair,GRN,Greens,F,0
-Durack,WA,Melissa,Price,LIB,Liberal,F,1
+Durack,WA,Ian,Blayney,NAT,Nationals,M,0
 Durack,WA,Brenton,Johannsen,ON,One Nation,M,0
+Durack,WA,Bianca,McNeair,GRN,Greens,F,0
 Durack,WA,Andrew,Middleton,UAP,United Australia,M,0
-Eden-Monaro,NSW,Kristy,McBain,ALP,Labor,F,1
+Durack,WA,Melissa,Price,LIB,Liberal,F,1
+Durack,WA,Jeremiah,Riley,ALP,Labor,M,0
+Eden-Monaro,NSW,Greg,Butler,DEM,Democrats,M,0
 Eden-Monaro,NSW,Darren,Garnon,UAP,United Australia,M,0
-Fadden,QLD,Letitia,Del Fabbro,ALP,Labor,F,0
-Fadden,QLD,Sally,Spain,GRN,Greens,F,0
+Eden-Monaro,NSW,Vivian,Harris,GRN,Greens,F,0
+Eden-Monaro,NSW,Kristy,McBain,ALP,Labor,F,1
+Eden-Monaro,NSW,Toni,McLennan,IMO,Informed Medical Options,F,0
+Eden-Monaro,NSW,Jerry,Nockles,LIB,Liberal,M,0
 Fadden,QLD,Stewart,Brooker,IND,Independent,M,0
+Fadden,QLD,Letitia,Del Fabbro,ALP,Labor,F,0
 Fadden,QLD,Alex,Forbes,LDP,Liberal Democrats,M,0
-Fadden,QLD,Stuart,Robert,LNP,Liberal National,M,1
 Fadden,QLD,Nathan,O'Brien,UAP,United Australia,M,0
-Fairfax,QLD,Tash,Poole,AJP,Animal Justice,F,0
-Fairfax,QLD,Sue,Ferguson,ALP,Labor,F,0
-Fairfax,QLD,Ted,O'Brien,LNP,Liberal National,M,1
+Fadden,QLD,Sandy,Roach,ON,One Nation,F,0
+Fadden,QLD,Stuart,Robert,LNP,Liberal National,M,1
+Fadden,QLD,Sally,Spain,GRN,Greens,F,0
 Fairfax,QLD,Peter,Carter,TNL,New Liberals,M,0
+Fairfax,QLD,Nikki,Civitarese,ON,One Nation,F,0
+Fairfax,QLD,Sue,Etheridge,GRN,Greens,F,0
+Fairfax,QLD,Sue,Ferguson,ALP,Labor,F,0
+Fairfax,QLD,Wendy,Hazelton,IMO,Informed Medical Options,F,0
 Fairfax,QLD,Lisa,Khoury,UAP,United Australia,F,0
+Fairfax,QLD,Ted,O'Brien,LNP,Liberal National,M,1
+Fairfax,QLD,Tash,Poole,AJP,Animal Justice,F,0
+Farrer,NSW,Eli,Davern,GRN,Greens,M,0
 Farrer,NSW,Sussan,Ley,LIB,Liberal,F,1
+Farrer,NSW,Emma,Naughton-Starkey,LDP,Liberal Democrats,F,0
 Farrer,NSW,Louis,Ramos,UAP,United Australia,M,0
+Farrer,NSW,Mistie,Sibraa,GAP,Great Australian Party,F,0
+Fenner,ACT,Timothy,Elton,UAP,United Australia,M,0
+Fenner,ACT,Nathan,Kuster,LIB,Liberal,M,0
 Fenner,ACT,Andrew,Leigh,ALP,Labor,M,1
 Fenner,ACT,Natasa,Sojic,GRN,Greens,F,0
-Fenner,ACT,Nathan,Kuster,LIB,Liberal,M,0
-Fenner,ACT,Timothy,Elton,UAP,United Australia,M,0
-Fisher,QLD,Vickie,Breckenridge,AJP,Animal Justice,F,0
 Fisher,QLD,Judene,Andrews,ALP,Labor,F,0
-Fisher,QLD,Andrew,McLean,GRN,Greens,M,0
-Fisher,QLD,Andrew,Wallace,LNP,Liberal National,M,1
+Fisher,QLD,Vickie,Breckenridge,AJP,Animal Justice,F,0
 Fisher,QLD,Tony,Moore,UAP,United Australia,M,0
-Flinders,VIC,Surbhi,Snowball,ALP,Labor,F,0
-Flinders,VIC,Colin,Lane,GRN,Greens,M,0
-Flinders,VIC,Despi,O’Connor,IND,Independent,F,0
-Flinders,VIC,Sarah,Russell,IND,Independent,F,0
-Flinders,VIC,Zoe,McKenzie,LIB,Liberal,F,0
+Fisher,QLD,Sam,Schriever,ON,One Nation,M,0
+Fisher,QLD,Andrew,Wallace,LNP,Liberal National,M,1
+Fisher,QLD,Renay,Wells,GRN,Greens,M,0
+Flinders,VIC,Chrysten,Abraham,LDP,Liberal Democrats,F,0
 Flinders,VIC,Steve,Anger,TNL,New Liberals,M,0
-Flinders,VIC,Morgan,Jonas,UAP,United Australia,M,0
-Flynn,QLD,Matt,Burnett,ALP,Labor,M,0
+Flinders,VIC,Colin,Lane,GRN,Greens,M,0
+Flinders,VIC,Cyndi,Marr,ON,One Nation,F,0
+Flinders,VIC,Zoe,McKenzie,LIB,Liberal,F,0
+Flinders,VIC,Despi,O'Connor,IND,Independent,F,0
+Flinders,VIC,Sarah,Russell,IND,Independent,F,0
+Flinders,VIC,Surbhi,Snowball,ALP,Labor,F,0
 Flynn,QLD,Colin,Boyce,LNP,Liberal National,M,0
+Flynn,QLD,Matt,Burnett,ALP,Labor,M,0
 Flynn,QLD,Tanya,Wieden,UAP,United Australia,F,0
-Forde,QLD,Linda,McCarthy,AJP,Animal Justice,F,0
-Forde,QLD,Rowan,Holzberger,ALP,Labor,M,0
-Forde,QLD,Bert,van Manen,LNP,Liberal National,M,1
+Forde,QLD,Jordan,Hall,GRN,Greens,M,0
 Forde,QLD,Samuel,Holland,TNL,New Liberals,M,0
+Forde,QLD,Rowan,Holzberger,ALP,Labor,M,0
+Forde,QLD,Seschelle,Matterson,ON,One Nation,F,0
+Forde,QLD,Linda,McCarthy,AJP,Animal Justice,F,0
 Forde,QLD,Roxanne,O'Halloran,UAP,United Australia,F,0
+Forde,QLD,Tobby,Sutherland,LDP,Liberal Democrats,M,0
+Forde,QLD,Bert,van Manen,LNP,Liberal National,M,1
+Forrest,WA,Helen,Allan,UAP,United Australia,F,0
 Forrest,WA,Bronwen,English,ALP,Labor,F,0
 Forrest,WA,Nola,Marino,LIB,Liberal,F,1
+Forrest,WA,Paul,Markham,LDP,Liberal Democrats,M,0
 Forrest,WA,Shane,Mezger,ON,One Nation,M,0
-Forrest,WA,Helen,Allan,UAP,United Australia,F,0
+Forrest,WA,Christine,Terrantroy,GRN,Greens,F,0
+Fowler,NSW,Avery,Howard,GRN,Greens,NB,0
 Fowler,NSW,Kristina,Keneally,ALP,Labor,F,0
+Fowler,NSW,Dai,Le,IND,Independent,F,0
+Fowler,NSW,Courtney,Nguyen,LIB,Liberal,F,0
 Fowler,NSW,Lela,Panich,UAP,United Australia,F,0
-Franklin,TAS,Julie,Collins,ALP,Labor,F,1
-Franklin,TAS,Jade,Darko,GRN,Greens,F,0
-Franklin,TAS,Kristy,Johnson,LIB,Liberal,F,0
+Fowler,NSW,Peter,Runge,LDP,Liberal Democrats,M,0
 Franklin,TAS,Anna,Bateman,LOC,Local Party,F,0
+Franklin,TAS,Julie,Collins,ALP,Labor,F,1
+Franklin,TAS,Jade,Darko,GRN,Greens,NB,0
+Franklin,TAS,Chris,Hannan,JLN,Jacqui Lambie Network,F,0
+Franklin,TAS,Stephen,Hindley,ON,One Nation,M,0
+Franklin,TAS,Kristy,Johnson,LIB,Liberal,F,0
 Franklin,TAS,Lisa,Matthews,UAP,United Australia,F,0
-Fraser,VIC,Daniel,Mulino,ALP,Labor,M,1
-Fraser,VIC,Tony,Dobran,GAP,Great Australian Party,M,0
+Fraser,VIC,Anthony,Cursio,LDP,Liberal Democrats,M,0
+Fraser,VIC,Sabine,de Pyle,ON,One Nation,F,0
 Fraser,VIC,Bella,Mitchell-Sears,GRN,Greens,F,0
+Fraser,VIC,Daniel,Mulino,ALP,Labor,M,1
 Fraser,VIC,Keith,Raymond,UAP,United Australia,M,0
 Fraser,VIC,Catherine,Robertson,VS,Victorian Socialists,F,0
-Fremantle,WA,Josh,Wilson,ALP,Labor,M,1
-Fremantle,WA,Felicity,Townsend,GRN,Greens,F,0
-Fremantle,WA,Bill,Koul,LIB,Liberal,M,0
 Fremantle,WA,Stella,Jinman,UAP,United Australia,F,0
-Gellibrand,VIC,Tim,Watts,ALP,Labor,M,1
-Gellibrand,VIC,Suzette,Rodoreda,GRN,Greens,F,0
-Gellibrand,VIC,Abraham,Isac,UAP,United Australia,M,0
+Fremantle,WA,Bill,Koul,LIB,Liberal,M,0
+Fremantle,WA,Yan,Loh,LDP,Liberal Democrats,M,0
+Fremantle,WA,Ben,Tilbury,GAP,Great Australian Party,M,0
+Fremantle,WA,Felicity,Townsend,GRN,Greens,F,0
+Fremantle,WA,Sam,Wainwright,SA,Socialist Alliance,M,0
+Fremantle,WA,Josh,Wilson,ALP,Labor,M,1
 Gellibrand,VIC,Andrew,Charles,VS,Victorian Socialists,M,0
-Gilmore,NSW,Fiona,Phillips,ALP,Labor,F,1
+Gellibrand,VIC,Abraham,Isac,UAP,United Australia,M,0
+Gellibrand,VIC,Suzette,Rodoreda,GRN,Greens,F,0
+Gellibrand,VIC,Tim,Watts,ALP,Labor,M,1
 Gilmore,NSW,Andrew,Constance,LIB,Liberal,M,0
 Gilmore,NSW,Jordan,Maloney,UAP,United Australia,M,0
-Gippsland,VIC,Marjorie,Thorpe,GRN,Greens,F,0
+Gilmore,NSW,Carmel,McCallum,GRN,Greens,F,0
+Gilmore,NSW,Fiona,Phillips,ALP,Labor,F,1
 Gippsland,VIC,Darren,Chester,NAT,Nationals,M,1
 Gippsland,VIC,Gregory,Forster,UAP,United Australia,M,0
+Gippsland,VIC,Greg,Hansford,ON,One Nation,M,0
+Gippsland,VIC,Jannette,Langley,ALP,Labor,F,0
+Gippsland,VIC,Marjorie,Thorpe,GRN,Greens,F,0
 Goldstein,VIC,Martyn,Abbott,ALP,Labor,M,0
-Goldstein,VIC,Alana,Galli-McRostie,GRN,Greens,F,0
 Goldstein,VIC,Zoe,Daniel,IND,Independent,F,0
+Goldstein,VIC,Alana,Galli-McRostie,GRN,Greens,F,0
+Goldstein,VIC,Catherine,Reynolds,UAP,United Australia,F,0
 Goldstein,VIC,David,Segal,LDP,Liberal Democrats,M,0
 Goldstein,VIC,Tim,Wilson,LIB,Liberal,M,1
-Goldstein,VIC,Catherine,Reynolds,UAP,United Australia,F,0
-Gorton,VIC,Brendan,O'Connor,ALP,Labor,M,1
-Gorton,VIC,Praise,Morris,GRN,Greens,F,0
-Gorton,VIC,Ian,Quick,LIB,Liberal,M,0
-Gorton,VIC,Michael,Virag,UAP,United Australia,M,0
+Gorton,VIC,Tony,Dobran,GAP,Great Australian Party,M,0
+Gorton,VIC,John,Fletcher,LIB,Liberal,M,0
 Gorton,VIC,Belle,Gibson,VS,Victorian Socialists,F,0
+Gorton,VIC,Praise,Morris,GRN,Greens,F,0
+Gorton,VIC,Brendan,O'Connor,ALP,Labor,M,1
+Gorton,VIC,Michael,Virag,UAP,United Australia,M,0
 Grayndler,NSW,Anthony,Albanese,ALP,Labor,M,1
+Grayndler,NSW,Michael,Dello-Iacovo,AJP,Animal Justice,M,0
+Grayndler,NSW,James,Haggerty,FUS,Fusion,M,0
 Grayndler,NSW,Rachael,Jacobs,GRN,Greens,F,0
-Grayndler,NSW,Glenda,Merritt,IAP,Indigenous-Aboriginal Party,F,0
+Grayndler,NSW,Sarina,Kilham,IND,Independent,F,0
 Grayndler,NSW,David,Smith,UAP,United Australia,M,0
-Greenway,NSW,Michelle,Rowland,ALP,Labor,F,1
+Grayndler,NSW,Wenjie,Zhang,LIB,Liberal,M,0
+Greenway,NSW,Damien,Atkins,GRN,Greens,M,0
+Greenway,NSW,Pradeep,Pathi,LIB,Liberal,M,0
 Greenway,NSW,Mark,Rex,UAP,United Australia,M,0
+Greenway,NSW,Michelle,Rowland,ALP,Labor,F,1
 Grey,SA,Rowan,Ramsey,LIB,Liberal,M,1
 Grey,SA,Suzanne,Waters,UAP,United Australia,F,0
+Grey,SA,Timothy,White,GRN,Greens,M,0
 Griffith,QLD,Terri,Butler,ALP,Labor,F,1
 Griffith,QLD,Max,Chandler-Mather,GRN,Greens,M,0
-Griffith,QLD,Olivia,Roberts,LNP,Liberal National,F,0
 Griffith,QLD,Robert,McMullan,UAP,United Australia,M,0
+Griffith,QLD,Olivia,Roberts,LNP,Liberal National,F,0
+Groom,QLD,Grant,Abraham,ON,One Nation,M,0
 Groom,QLD,Genevieve,Allpass,ALP,Labor,F,0
+Groom,QLD,Melissa,Bannister,UAP,United Australia,F,0
+Groom,QLD,Mickey,Berry,GRN,Greens,F,0
+Groom,QLD,Garth,Hamilton,LNP,Liberal National,M,1
 Groom,QLD,Suzie,Holt,IND,Independent,F,0
 Groom,QLD,Kirstie,Smolenski,IND,Independent,F,0
-Groom,QLD,Garth,Hamilton,LNP,Liberal National,M,1
-Groom,QLD,Melissa,Bannister,UAP,United Australia,F,0
 Hasluck,WA,Tania,Lawrence,ALP,Labor,F,0
-Hasluck,WA,Brendan,Sturcke,GRN,Greens,M,0
-Hasluck,WA,Ken,Wyatt,LIB,Liberal,M,1
+Hasluck,WA,Steven,McCreanor,LDP,Liberal Democrats,M,0
 Hasluck,WA,Will,Scott,UAP,United Australia,M,0
-Hawke,VIC,Sam,Rae,ALP,Labor,M,0
-Hawke,VIC,Fred,Ackerman,LIB,Liberal,M,0
+Hasluck,WA,Brendan,Sturcke,GRN,Greens,M,0
+Hasluck,WA,Jeanene,Williams,IND,Independent,F,0
+Hasluck,WA,Ken,Wyatt,LIB,Liberal,M,1
 Hawke,VIC,Andrew,Cuthbertson,UAP,United Australia,M,0
+Hawke,VIC,Enamul,Haque,LIB,Liberal,M,0
 Hawke,VIC,Jack,Hynes,VS,Victorian Socialists,M,0
-Herbert,QLD,John,Ring,ALP,Labor,M,0
-Herbert,QLD,Scott,Humphreys,GRN,Greens,M,0
+Hawke,VIC,Michael,Lacey,GAP,Great Australian Party,M,0
+Hawke,VIC,Max,Martucci,TNL,New Liberals,M,0
+Hawke,VIC,Sam,Rae,ALP,Labor,M,0
+Hawke,VIC,Glenn,Vessey,ACP,Citizens Party,M,0
+Herbert,QLD,Gregory,Dowling,UAP,United Australia,M,0
 Herbert,QLD,Angela,Egan,IND,Independent,F,0
 Herbert,QLD,Clynton,Hawks,KAP,Katter's Australian Party,M,0
+Herbert,QLD,Scott,Humphreys,GRN,Greens,M,0
+Herbert,QLD,Toni,McMahon,IMO,Informed Medical Options,F,0
+Herbert,QLD,John,Ring,ALP,Labor,M,0
 Herbert,QLD,Phillip,Thompson,LNP,Liberal National,M,1
-Herbert,QLD,Gregory,Dowling,UAP,United Australia,M,0
-Higgins,VIC,Michelle,Ananda-Rajah,ALP,Labor,F,0
-Higgins,VIC,Sonya,Semmens,GRN,Greens,F,0
-Higgins,VIC,Matthew,Ford,LDP,Liberal Democrats,M,0
 Higgins,VIC,Katie,Allen,LIB,Liberal,F,1
+Higgins,VIC,Michelle,Ananda-Rajah,ALP,Labor,F,0
+Higgins,VIC,Matthew,Ford,LDP,Liberal Democrats,M,0
 Higgins,VIC,Andrew,Johnson,RP,Reason,M,0
+Higgins,VIC,Sonya,Semmens,GRN,Greens,F,0
 Higgins,VIC,Ingram,Spencer,UAP,United Australia,M,0
 Hindmarsh,SA,Mark,Butler,ALP,Labor,M,1
+Hindmarsh,SA,George,Melissourgos,UAP,United Australia,M,0
 Hindmarsh,SA,Patrick,O'Sullivan,GRN,Greens,M,0
 Hinkler,QLD,Amy,Byrnes,AJP,Animal Justice,F,0
-Hinkler,QLD,Alicia,Wade,ALP,Labor,F,0
 Hinkler,QLD,Nicole,Cornish,GRN,Greens,F,0
-Hinkler,QLD,Keith,Pitt,LNP,Liberal National,M,1
+Hinkler,QLD,Jack,Dempsey,IND,Independent,M,0
+Hinkler,QLD,Zak,Menhennett,ON,One Nation,M,0
 Hinkler,QLD,Kristie,Nash,UAP,United Australia,F,0
-Holt,VIC,Anthony,Byrne,ALP,Labor,M,1
+Hinkler,QLD,Keith,Pitt,LNP,Liberal National,M,1
+Hinkler,QLD,Jason,Scanes,ALP,Labor,M,0
+Holt,VIC,Cassandra,Fernando,ALP,Labor,F,0
+Holt,VIC,Gerardine,Hansen,UAP,United Australia,F,0
 Holt,VIC,Sujit,Mathew,GRN,Greens,M,0
 Holt,VIC,Matthew,Nunez-Silva,LDP,Liberal Democrats,M,0
-Holt,VIC,Stephanie,Trace,LIB,Liberal,F,0
-Holt,VIC,Gerardine,Hansen,UAP,United Australia,F,0
+Holt,VIC,Ranj,Perera,LIB,Liberal,M,0
+Hotham,VIC,Savitri,Bevinakoppa,LIB,Liberal,F,0
 Hotham,VIC,Clare,O'Neil,ALP,Labor,F,1
-Hotham,VIC,Louisa,Willoughby,GRN,Greens,F,0
 Hotham,VIC,Bruce,Ridgway,UAP,United Australia,M,0
-Hughes,NSW,Peter,Tsambalas,ALP,Labor,M,0
+Hotham,VIC,Edward,Sok,LDP,Liberal Democrats,M,0
+Hotham,VIC,Louisa,Willoughby,GRN,Greens,F,0
+Hughes,NSW,Craig,Kelly,UAP,United Australia,M,1
+Hughes,NSW,Jennifer,Philip,TNL,New Liberals,F,0
 Hughes,NSW,Linda,Seymour,IND,Independent,F,0
 Hughes,NSW,Georgia,Steele,IND,Independent,F,0
-Hughes,NSW,Jennifer,Philip,TNL,New Liberals,F,0
-Hughes,NSW,Craig,Kelly,UAP,United Australia,M,1
+Hughes,NSW,Peter,Thompson,GRN,Greens,M,0
+Hughes,NSW,Jenny,Ware,LIB,Liberal,F,0
 Hume,NSW,Penny,Ackery,IND,Independent,F,0
-Hume,NSW,Sheneli,Dona,IND,Independent,F,0
-Hume,NSW,Angus,Taylor,LIB,Liberal,M,1
+Hume,NSW,Greg,Baines,ALP,Labor,M,0
 Hume,NSW,Garry,Dollin,UAP,United Australia,M,0
-Hunter,NSW,Daniel,Repacholi,ALP,Labor,M,0
+Hume,NSW,Sheneli,Dona,IND,Independent,F,0
+Hume,NSW,Karen,Stewart,GRN,Greens,F,0
+Hume,NSW,Angus,Taylor,LIB,Liberal,M,1
+Hume,NSW,Rebecca,Thompson,ON,One Nation,F,0
 Hunter,NSW,Stuart,Bonds,IND,Independent,M,0
-Hunter,NSW,Daniel,Wallace,IND,Independent,M,0
-Hunter,NSW,James,Thomson,NAT,Nationals,M,0
+Hunter,NSW,Victoria,Davies,AJP,Animal Justice,F,0
 Hunter,NSW,Dale,McNamara,ON,One Nation,M,0
+Hunter,NSW,Janet,Murray,GRN,Greens,F,0
 Hunter,NSW,Geoff,Passfield,UAP,United Australia,M,0
+Hunter,NSW,Daniel,Repacholi,ALP,Labor,M,0
+Hunter,NSW,James,Thomson,NAT,Nationals,M,0
+Hunter,NSW,Daniel,Wallace,IND,Independent,M,0
 Indi,VIC,Nadia,David,ALP,Labor,F,0
+Indi,VIC,Julian,Fidge,LDP,Liberal Democrats,M,0
+Indi,VIC,Elizabeth,Fisher,NAT,Nationals,F,0
 Indi,VIC,Benjamin,Gilbert,GRN,Greens,M,0
 Indi,VIC,Helen,Haines,IND,Independent,F,1
 Indi,VIC,Ross,Lyman,LIB,Liberal,M,0
-Indi,VIC,Elizabeth,Fisher,NAT,Nationals,F,0
+Indi,VIC,Beth,Stevens,ON,One Nation,F,0
 Indi,VIC,Stephen,Williams,UAP,United Australia,M,0
-Isaacs,VIC,Mark,Dreyfus,ALP,Labor,M,1
-Isaacs,VIC,Alex,Breskin,GRN,Greens,M,0
 Isaacs,VIC,Robbie,Beaton,LIB,Liberal,M,0
+Isaacs,VIC,Alex,Breskin,GRN,Greens,M,0
+Isaacs,VIC,Mark,Dreyfus,ALP,Labor,M,1
+Isaacs,VIC,Alix,Livingstone,AJP,Animal Justice,F,0
 Isaacs,VIC,Scott,McCamish,UAP,United Australia,M,0
-Jagajaga,VIC,Kate,Thwaites,ALP,Labor,F,1
+Isaacs,VIC,Sarah,O'Donnell,LDP,Liberal Democrats,F,0
+Isaacs,VIC,Boris,Sokiransky,ON,One Nation,M,0
 Jagajaga,VIC,Liz,Chase,GRN,Greens,F,0
 Jagajaga,VIC,Zahra,Mustaf,IND,Independent,F,0
 Jagajaga,VIC,Maya,Tesa,LDP,Liberal Democrats,F,0
-Jagajaga,VIC,Jacky,Douglas,LIB,Liberal,F,0
+Jagajaga,VIC,Kate,Thwaites,ALP,Labor,F,1
+Jagajaga,VIC,Sahil,Tomar,LIB,Liberal,M,0
 Jagajaga,VIC,Allison,Zelinka,UAP,United Australia,F,0
 Kennedy,QLD,Jason,Brandon,ALP,Labor,M,0
+Kennedy,QLD,Peter,Campion,UAP,United Australia,M,0
 Kennedy,QLD,Jennifer,Cox,GRN,Greens,F,0
 Kennedy,QLD,Bob,Katter,KAP,Katter's Australian Party,M,1
 Kennedy,QLD,Bryce,Macdonald,LNP,Liberal National,M,0
-Kennedy,QLD,Peter,Campion,UAP,United Australia,M,0
-Kingsford Smith,NSW,Matt,Thistlethwaite,ALP,Labor,M,1
+Kingsford Smith,NSW,Tracy,Mortimer,ON,One Nation,F,0
 Kingsford Smith,NSW,Anthony,Tawaf,UAP,United Australia,M,0
-Kingston,SA,Amanda,Rishworth,ALP,Labor,F,1
-Kingston,SA,John,Photakis,GRN,Greens,M,0
+Kingsford Smith,NSW,Matt,Thistlethwaite,ALP,Labor,M,1
 Kingston,SA,Russell,Jackson,UAP,United Australia,M,0
+Kingston,SA,John,Photakis,GRN,Greens,M,0
+Kingston,SA,Amanda,Rishworth,ALP,Labor,F,1
+Kooyong,VIC,David,Connolly,AVP,Australian Values,M,0
+Kooyong,VIC,Josh,Frydenberg,LIB,Liberal,M,1
+Kooyong,VIC,Scott,Hardiman,UAP,United Australia,M,0
 Kooyong,VIC,Peter,Lynch,ALP,Labor,M,0
 Kooyong,VIC,Piers,Mitchem,GRN,Greens,M,0
 Kooyong,VIC,Monique,Ryan,IND,Independent,F,0
-Kooyong,VIC,Josh,Frydenberg,LIB,Liberal,M,1
-Kooyong,VIC,Scott,Hardiman,UAP,United Australia,M,0
+La Trobe,VIC,Michael,Abelman,LDP,Liberal Democrats,M,0
+La Trobe,VIC,Helen,Jeges,AJP,Animal Justice,F,0
 La Trobe,VIC,Abi,Kumar,ALP,Labor,M,0
+La Trobe,VIC,Merryn,Mott,UAP,United Australia,F,0
 La Trobe,VIC,Michael,Schilling,GRN,Greens,M,0
 La Trobe,VIC,Jason,Wood,LIB,Liberal,M,1
-La Trobe,VIC,Merryn,Mott,UAP,United Australia,F,0
-Lalor,VIC,Joanne,Ryan,ALP,Labor,F,1
-Lalor,VIC,Jack,Boddeke,GRN,Greens,M,0
+Lalor,VIC,Claudio,Aribe,VS,Victorian Socialists,M,0
 Lalor,VIC,Patrizia,Barcatta,LDP,Liberal Democrats,F,0
+Lalor,VIC,Jack,Boddeke,GRN,Greens,M,0
+Lalor,VIC,Ravi,Gaddipati,LIB,Liberal,M,0
 Lalor,VIC,Juanita,Paterson,UAP,United Australia,F,0
+Lalor,VIC,Joanne,Ryan,ALP,Labor,F,1
 Lalor,VIC,Claudio,Uribe,VS,Victorian Socialists,M,0
 Leichhardt,QLD,Susanne,Bayly,AJP,Animal Justice,F,0
-Leichhardt,QLD,Elida,Faith,ALP,Labor,F,0
-Leichhardt,QLD,Silvia,Mogorovich,IMO,Informed Medical Options,F,0
+Leichhardt,QLD,Geena,Court,ON,One Nation,F,0
 Leichhardt,QLD,Warren,Entsch,LNP,Liberal National,M,1
-Leichhardt,QLD,Pat,O'Shane,SA,Socialist Alliance,F,0
+Leichhardt,QLD,Elida,Faith,ALP,Labor,F,0
 Leichhardt,QLD,Daniel,Hannagan,UAP,United Australia,M,0
-Lilley,QLD,Chris,Cicchitti,AJP,Animal Justice,M,0
-Lilley,QLD,Anika,Wells,ALP,Labor,F,1
-Lilley,QLD,Melissa,Stevens,GRN,Greens,F,0
+Leichhardt,QLD,Rod,Jensen,KAP,Katter's Australian Party,M,0
+Leichhardt,QLD,Silvia,Mogorovich,IMO,Informed Medical Options,F,0
+Leichhardt,QLD,Phillip,Musumeci,GRN,Greens,M,0
+Leichhardt,QLD,Pat,O'Shane,SA,Socialist Alliance,F,0
 Lilley,QLD,Daniel,Freshwater,LDP,Liberal Democrats,M,0
 Lilley,QLD,Gerardine,Hoogland,UAP,United Australia,F,0
-Lindsay,NSW,Trevor,Ross,ALP,Labor,M,0
+Lilley,QLD,Vivian,Lobo,LNP,Liberal National,M,0
+Lilley,QLD,Stephen,McGrath,IMO,Informed Medical Options,M,0
+Lilley,QLD,Melissa,Stevens,GRN,Greens,F,0
+Lilley,QLD,Anika,Wells,ALP,Labor,F,1
+Lilley,QLD,Michelle,Wilde,ON,One Nation,F,0
 Lindsay,NSW,Melissa,McIntosh,LIB,Liberal,F,1
+Lindsay,NSW,Pieter-Joris,Morrsink,GRN,Greens,M,0
+Lindsay,NSW,Rebekah,Ray,IMO,Informed Medical Options,F,0
+Lindsay,NSW,Trevor,Ross,ALP,Labor,M,0
 Lindsay,NSW,Kristina,Schupp,UAP,United Australia,F,0
-Lingiari,NT,Marion,Scrymgour,ALP,Labor,F,0
-Lingiari,NT,Damien,Ryan,CLP,Country Liberal,M,0
+Lingiari,NT,Tim,Gallard,ON,One Nation,M,0
+Lingiari,NT,Thong Sum,Lee,ACP,Citizens Party,M,0
 Lingiari,NT,Allan,McLeod,UAP,United Australia,M,0
-Longman,QLD,Paula,Gilbard,AJP,Animal Justice,F,0
+Lingiari,NT,Damien,Ryan,CLP,Country Liberal,M,0
+Lingiari,NT,Marion,Scrymgour,ALP,Labor,F,0
 Longman,QLD,Rebecca,Fanning,ALP,Labor,F,0
+Longman,QLD,Paula,Gilbard,AJP,Animal Justice,F,0
 Longman,QLD,Jens,Lipponer,LDP,Liberal Democrats,M,0
-Longman,QLD,Terry,Young,LNP,Liberal National,M,1
+Longman,QLD,Earl,Snijders,GRN,Greens,M,0
 Longman,QLD,Stefanie,Sutherland,UAP,United Australia,F,0
+Longman,QLD,Ross,Taylor,ON,One Nation,M,0
+Longman,QLD,Terry,Young,LNP,Liberal National,M,1
+Lyne,NSW,Karl,Attenborough,GRN,Greens,M,0
 Lyne,NSW,David,Gillespie,NAT,Nationals,M,1
 Lyne,NSW,Joel,Putland,UAP,United Australia,M,0
-Lyons,TAS,Brian,Mitchell,ALP,Labor,M,1
-Lyons,TAS,Liz,Johnstone,GRN,Greens,F,0
-Lyons,TAS,Troy,Pfitzner,JLN,Jacqui Lambie Network,M,0
+Lyne,NSW,Alex,Simpson,ALP,Labor,M,0
 Lyons,TAS,Susie,Bower,LIB,Liberal,F,0
+Lyons,TAS,Emma,Goyne,ON,One Nation,F,0
+Lyons,TAS,Liz,Johnstone,GRN,Greens,F,0
+Lyons,TAS,Brian,Mitchell,ALP,Labor,M,1
 Lyons,TAS,Rohan,Peterson,UAP,United Australia,M,0
+Lyons,TAS,Troy,Pfitzner,JLN,Jacqui Lambie Network,M,0
 Macarthur,NSW,Mike,Freelander,ALP,Labor,M,1
+Macarthur,NSW,Scott,Korman,LDP,Liberal Democrats,M,0
 Macarthur,NSW,Rosetta,Sicari,UAP,United Australia,F,0
-Mackellar,NSW,Ethan,Hrjnak,GRN,Greens,M,0
-Mackellar,NSW,Sophie,Scamps,IND,Independent,F,0
-Mackellar,NSW,Jason,Falinski,LIB,Liberal,M,1
-Mackellar,NSW,Barry,Steele,TNL,New Liberals,M,0
+Macarthur,NSW,Adam,Zahra,ON,One Nation,M,0
 Mackellar,NSW,Christopher,Ball,UAP,United Australia,M,0
+Mackellar,NSW,Jason,Falinski,LIB,Liberal,M,1
+Mackellar,NSW,Paula,Goodman,ALP,Labor,F,0
+Mackellar,NSW,Ethan,Hrnjak,GRN,Greens,M,0
+Mackellar,NSW,Sophie,Scamps,IND,Independent,F,0
+Mackellar,NSW,Barry,Steele,TNL,New Liberals,M,0
 Macnamara,VIC,Josh,Burns,ALP,Labor,M,1
+Macnamara,VIC,Colleen,Harkin,LIB,Liberal,F,0
+Macnamara,VIC,Jane,Hickey,UAP,United Australia,F,0
 Macnamara,VIC,Steph,Hodgins-May,GRN,Greens,F,0
-Macnamara,VIC,Christopher,Ride,LIB,Liberal,M,0
-Macnamara,VIC,Jefferson,Earl,UAP,United Australia,M,0
-Macquarie,NSW,Susan,Templeman,ALP,Labor,F,1
-Macquarie,NSW,Joel,MacKay,GRN,Greens,M,0
+Macnamara,VIC,Rob,McCathie,LDP,Liberal Democrats,M,0
+Macquarie,NSW,Nicole,Evans,UAP,United Australia,F,0
+Macquarie,NSW,Tony,Hickey,GRN,Greens,M,0
+Macquarie,NSW,James,Jackson,LDP,Liberal Democrats,M,0
+Macquarie,NSW,Greg,Keightley,AJP,Animal Justice,M,0
 Macquarie,NSW,Michelle,Palmer,IMO,Informed Medical Options,F,0
 Macquarie,NSW,Sarah,Richards,LIB,Liberal,F,0
-Macquarie,NSW,Nicole,Evans,UAP,United Australia,F,0
-Makin,SA,Tony,Zappia,ALP,Labor,M,1
-Makin,SA,Alan,Howard-Jones,LIB,Liberal,M,0
+Macquarie,NSW,Susan,Templeman,ALP,Labor,F,1
 Makin,SA,Kimberley,Drozdoff,UAP,United Australia,F,0
-Mallee,VIC,Chris,Lahy,ACP,Australian Christians,M,0
+Makin,SA,Alan,Howard-Jones,LIB,Liberal,M,0
+Makin,SA,Emma,Mustaca,GRN,Greens,F,0
+Makin,SA,Tony,Zappia,ALP,Labor,M,1
 Mallee,VIC,Sophie,Baldwin,IND,Independent,F,0
 Mallee,VIC,Claudia,Haenel,IND,Independent,F,0
-Mallee,VIC,Anne,Webster,NAT,Nationals,F,1
 Mallee,VIC,Stuart,King,UAP,United Australia,M,0
+Mallee,VIC,Chris,Lahy,ACP,Citizens Party,M,0
+Mallee,VIC,Anne,Webster,NAT,Nationals,F,1
+Maranoa,QLD,Mike,Kelly,ON,One Nation,M,0
+Maranoa,QLD,Dave,Kerrigan,ALP,Labor,M,0
 Maranoa,QLD,David,Littleproud,LNP,Liberal National,M,1
 Maranoa,QLD,Nathan,McDonald,UAP,United Australia,M,0
-Maribyrnong,VIC,Bill,Shorten,ALP,Labor,M,1
-Maribyrnong,VIC,Rhonda,Pryor,GRN,Greens,F,0
-Maribyrnong,VIC,Cameron,Smith,LDP,Liberal Democrats,M,0
+Maranoa,QLD,Elissa,Parker,GRN,Greens,F,0
 Maribyrnong,VIC,Darren,Besanko,UAP,United Australia,M,0
+Maribyrnong,VIC,Mark,Hobart,GAP,Great Australian Party,M,0
 Maribyrnong,VIC,Daniel,Nair Dadich,VS,Victorian Socialists,M,0
+Maribyrnong,VIC,Rhonda,Pryor,GRN,Greens,F,0
+Maribyrnong,VIC,Bill,Shorten,ALP,Labor,M,1
+Maribyrnong,VIC,Cameron,Smith,LDP,Liberal Democrats,M,0
 Mayo,SA,Marisa,Bell,ALP,Labor,F,0
-Mayo,SA,Rebekha,Sharkie,CA,Centre Alliance,F,1
-Mayo,SA,Greg,Elliott,GRN,Greens,M,0
 Mayo,SA,Allison,Bluck,LIB,Liberal,F,0
+Mayo,SA,Greg,Elliott,GRN,Greens,M,0
 Mayo,SA,Samantha,McGrail,UAP,United Australia,F,0
-McEwen,VIC,Rob,Mitchell,ALP,Labor,M,1
+Mayo,SA,Rebekha,Sharkie,CA,Centre Alliance,F,1
 McEwen,VIC,Neil,Barker,GRN,Greens,M,0
 McEwen,VIC,John,Herron,LDP,Liberal Democrats,M,0
-McEwen,VIC,Richard,Welch,LIB,Liberal,M,0
 McEwen,VIC,Paul,McRae,UAP,United Australia,M,0
+McEwen,VIC,Rob,Mitchell,ALP,Labor,M,1
+McEwen,VIC,Richard,Welch,LIB,Liberal,M,0
 McMahon,NSW,Chris,Bowen,ALP,Labor,M,1
-McMahon,NSW,Cameron,Shamsabad,LDP,Liberal Democrats,M,0
+McMahon,NSW,Astrid,O'Neill,GRN,Greens,F,0
 McMahon,NSW,Marie,Saliba,UAP,United Australia,F,0
-McPherson,QLD,Carl,Ungerer,ALP,Labor,M,0
-McPherson,QLD,Glenn,Pyne,LDP,Liberal Democrats,M,0
+McMahon,NSW,Cameron,Shamsabad,LDP,Liberal Democrats,M,0
+McMahon,NSW,Vivek,Singha,LIB,Liberal,M,0
 McPherson,QLD,Karen,Andrews,LNP,Liberal National,F,1
 McPherson,QLD,Joshua,Berrigan,UAP,United Australia,M,0
-Melbourne,VIC,Keir,Paterson,ALP,Labor,M,0
+McPherson,QLD,Andy,Cullen,AVP,Australian Values,M,0
+McPherson,QLD,Kevin,Hargraves,ON,One Nation,M,0
+McPherson,QLD,Glenn,Pyne,LDP,Liberal Democrats,M,0
+McPherson,QLD,Scott,Turner,GRN,Greens,M,0
+McPherson,QLD,Carl,Ungerer,ALP,Labor,M,0
 Melbourne,VIC,Adam,Bandt,GRN,Greens,M,1
-Melbourne,VIC,Richard,Peppard,LDP,Liberal Democrats,M,0
-Melbourne,VIC,Anders,Axelson,LIB,Liberal,M,0
-Melbourne,VIC,Justin,Borg,UAP,United Australia,M,0
 Melbourne,VIC,Colleen,Bolger,VS,Victorian Socialists,F,0
+Melbourne,VIC,Justin,Borg,UAP,United Australia,M,0
+Melbourne,VIC,James,Damches,LIB,Liberal,M,0
+Melbourne,VIC,Keir,Paterson,ALP,Labor,M,0
+Melbourne,VIC,Richard,Peppard,LDP,Liberal Democrats,M,0
+Melbourne,VIC,Bruce,Poon,AJP,Animal Justice,M,0
+Melbourne,VIC,Walter,Stragan,ON,One Nation,M,0
+Menzies,VIC,Greg,Cheesman,LDP,Liberal Democrats,M,0
 Menzies,VIC,Naomi,Oakley,ALP,Labor,F,0
 Menzies,VIC,Bill,Pheasant,GRN,Greens,M,0
-Menzies,VIC,Keith,Wolahan,LIB,Liberal,M,0
 Menzies,VIC,Nathan,Scaglione,UAP,United Australia,M,0
-Mitchell,NSW,Alex,Hawke,LIB,Liberal,M,1
+Menzies,VIC,Keith,Wolahan,LIB,Liberal,M,0
+Mitchell,NSW,Matt,Cox,GRN,Greens,M,0
 Mitchell,NSW,Linda,Daniel,UAP,United Australia,F,0
-Monash,VIC,Jessica,O'Donnell,ALP,Labor,F,0
-Monash,VIC,Mat,Morgan,GRN,Greens,M,0
-Monash,VIC,Deb,Leonard,IND,Independent,F,0
+Mitchell,NSW,Alex,Hawke,LIB,Liberal,M,1
 Monash,VIC,Russell,Broadbent,LIB,Liberal,M,1
+Monash,VIC,Meg,Edwards,LDP,Liberal Democrats,F,0
+Monash,VIC,Allan,Hicken,ON,One Nation,M,0
+Monash,VIC,Deb,Leonard,IND,Independent,F,0
 Monash,VIC,Christine,McShane,UAP,United Australia,F,0
+Monash,VIC,Mat,Morgan,GRN,Greens,M,0
+Monash,VIC,Jessica,O'Donnell,ALP,Labor,F,0
+Moncrieff,QLD,Angie,Bell,LNP,Liberal National,F,1
 Moncrieff,QLD,April,Broadbent,GRN,Greens,F,0
 Moncrieff,QLD,Diane,Demetre,LDP,Liberal Democrats,F,0
-Moncrieff,QLD,Angie,Bell,LNP,Liberal National,F,1
+Moncrieff,QLD,Glen,Palmer,ALP,Labor,M,0
+Moncrieff,QLD,Leeanne,Schultz,ON,One Nation,F,0
 Moncrieff,QLD,Dean,Vegas,UAP,United Australia,M,0
-Moore,WA,Tom,French,ALP,Labor,M,0
+Moore,WA,Sue,Andersson,GAP,Great Australian Party,F,0
 Moore,WA,Mark,Cooper,GRN,Greens,M,0
+Moore,WA,Tom,French,ALP,Labor,M,0
 Moore,WA,Ian,Goodenough,LIB,Liberal,M,1
 Moore,WA,Helen,Watkinson,UAP,United Australia,F,0
-Moreton,QLD,Graham,Perrett,ALP,Labor,M,1
+Moreton,QLD,Chelsea,Follett,UAP,United Australia,F,0
 Moreton,QLD,Claire,Garton,GRN,Greens,F,0
 Moreton,QLD,Steven,Huang,LNP,Liberal National,M,0
-Moreton,QLD,Chelsea,Follett,UAP,United Australia,F,0
-New England,NSW,Barnaby,Joyce,NAT,Nationals,M,1
+Moreton,QLD,Graham,Perrett,ALP,Labor,M,1
 New England,NSW,Cindy,Duncan,UAP,United Australia,F,0
+New England,NSW,Laura,Hughes,ALP,Labor,F,0
+New England,NSW,Barnaby,Joyce,NAT,Nationals,M,1
+New England,NSW,Carol,Sparks,GRN,Greens,F,0
+Newcastle,NSW,Emily,Brollo,AJP,Animal Justice,F,0
 Newcastle,NSW,Sharon,Claydon,ALP,Labor,F,1
-Newcastle,NSW,William,Hussey,IMO,Informed Medical Options,M,0
 Newcastle,NSW,Amanda,Cook,UAP,United Australia,F,0
-Nicholls,VIC,Jeff,Davy,ACP,Australian Christians,M,0
-Nicholls,VIC,Rob,Priestly,IND,Independent,M,0
-Nicholls,VIC,Steve,Brooks,LIB,Liberal,M,0
+Newcastle,NSW,William,Hussey,IMO,Informed Medical Options,M,0
+Newcastle,NSW,Charlotte,McCabe,GRN,Greens,F,0
+Newcastle,NSW,Katrina,Wark,LIB,Liberal,F,0
+Newcastle,NSW,Mark,Watson,ON,One Nation,M,0
 Nicholls,VIC,Sam,Birrell,NAT,Nationals,M,0
+Nicholls,VIC,Steve,Brooks,LIB,Liberal,M,0
+Nicholls,VIC,Jeff,Davy,ACP,Citizens Party,M,0
 Nicholls,VIC,Robert,Peterson,UAP,United Australia,M,0
+Nicholls,VIC,Rob,Priestly,IND,Independent,M,0
+Nicholls,VIC,Rikkie-Lee,Tyrrell,ON,One Nation,F,0
+North Sydney,NSW,Sam,Gunning,LDP,Liberal Democrats,M,0
+North Sydney,NSW,Victor,Kline,TNL,New Liberals,M,0
+North Sydney,NSW,Robert,Nalbandian,UAP,United Australia,M,0
 North Sydney,NSW,Catherine,Renshaw,ALP,Labor,F,0
 North Sydney,NSW,Lynne,Saville,GRN,Greens,F,0
 North Sydney,NSW,Kylea,Tink,IND,Independent,F,0
 North Sydney,NSW,Trent,Zimmerman,LIB,Liberal,M,1
-North Sydney,NSW,Victor,Kline,TNL,New Liberals,M,0
-North Sydney,NSW,Robert,Nalbandian,UAP,United Australia,M,0
-O'Connor,WA,Shaneane,Weldon,ALP,Labor,F,0
-O'Connor,WA,Giz,Watson,GRN,Greens,F,0
-O'Connor,WA,Rick,Wilson,LIB,Liberal,M,1
+O'Connor,WA,Brenden,Barber,GAP,Great Australian Party,M,0
+O'Connor,WA,Justin,Moseley,CHR,Australian Christians,M,0
 O'Connor,WA,Tracy,Tirronen,UAP,United Australia,F,0
-Oxley,QLD,Milton,Dick,ALP,Labor,M,1
-Oxley,QLD,Asha,Worsteling,GRN,Greens,F,0
-Oxley,QLD,Chris,Green,LNP,Liberal National,M,0
+O'Connor,WA,Giz,Watson,GRN,Greens,F,0
+O'Connor,WA,Shaneane,Weldon,ALP,Labor,F,0
+O'Connor,WA,Rick,Wilson,LIB,Liberal,M,1
 Oxley,QLD,Timothy,Coombes,UAP,United Australia,M,0
+Oxley,QLD,Milton,Dick,ALP,Labor,M,1
+Oxley,QLD,Chris,Green,LNP,Liberal National,M,0
+Oxley,QLD,Asha,Worsteling,GRN,Greens,F,0
 Page,NSW,Patrick,Deegan,ALP,Labor,M,0
 Page,NSW,Brett,Duroux,IAP,Indigenous-Aboriginal Party,M,0
-Page,NSW,Hanabeth,Luke,IND,Independent,F,0
 Page,NSW,Kevin,Hogan,NAT,Nationals,M,1
 Page,NSW,Serge,Killingbeck,TNL,New Liberals,M,0
+Page,NSW,Hanabeth,Luke,IND,Independent,F,0
+Page,NSW,Kashmir,Miller,GRN,Greens,F,0
 Page,NSW,Ian,Williamson,UAP,United Australia,M,0
-Parkes,NSW,Ben,Fox,IMO,Informed Medical Options,M,0
-Parkes,NSW,Stuart,Howe,IND,Independent,M,0
+Parkes,NSW,Jack,Ayoub,ALP,Labor,M,0
 Parkes,NSW,Mark,Coulton,NAT,Nationals,M,1
+Parkes,NSW,Ben,Fox,IMO,Informed Medical Options,M,0
+Parkes,NSW,Trish,Frail,GRN,Greens,F,0
+Parkes,NSW,Stuart,Howe,IND,Independent,M,0
+Parkes,NSW,Peter,Rothwell,LDP,Liberal Democrats,M,0
 Parkes,NSW,Petrus,Van Der Steen,UAP,United Australia,M,0
-Parramatta,NSW,Rob,Sinclair,IND,Independent,M,0
+Parramatta,NSW,Phil,Bradley,GRN,Greens,M,0
+Parramatta,NSW,Andrew,Charlton,ALP,Labor,M,0
 Parramatta,NSW,Julian,Fayad,UAP,United Australia,M,0
-Paterson,NSW,Meryl,Swanson,ALP,Labor,F,1
+Parramatta,NSW,Maria,Kovacic,LIB,Liberal,F,0
+Parramatta,NSW,Rob,Sinclair,IND,Independent,M,0
+Parramatta,NSW,Liza,Tazewell,LDP,Liberal Democrats,F,0
+Paterson,NSW,Sonia,Bailey,LDP,Liberal Democrats,F,0
+Paterson,NSW,Louise,Ihlein,GRN,Greens,F,0
 Paterson,NSW,Angela,Ketas,IMO,Informed Medical Options,F,0
-Paterson,NSW,Brooke,Vitnell,LIB,Liberal,F,0
 Paterson,NSW,Jason,Olbourne,UAP,United Australia,M,0
+Paterson,NSW,Meryl,Swanson,ALP,Labor,F,1
+Paterson,NSW,Neil,Turner,ON,One Nation,M,0
+Paterson,NSW,Brooke,Vitnell,LIB,Liberal,F,0
+Pearce,WA,Linda,Aitken,LIB,Liberal,F,0
+Pearce,WA,Trevor,Dalby,UAP,United Australia,M,0
+Pearce,WA,Bradley,Joncevski,LDP,Liberal Democrats,M,0
+Pearce,WA,Aaron,Malloy,ON,One Nation,M,0
+Pearce,WA,Vanessa,Montgomery,CHR,Australian Christians,F,0
+Pearce,WA,Donna,Nelson,GRN,Greens,F,0
 Pearce,WA,Tracey,Roberts,ALP,Labor,F,0
 Pearce,WA,Roz,Stewart,GAP,Great Australian Party,F,0
-Pearce,WA,Donna,Nelson,GRN,Greens,F,0
-Pearce,WA,Linda,Aitken,LIB,Liberal,F,0
-Pearce,WA,Aaron,Malloy,ON,One Nation,M,0
-Pearce,WA,Trevor,Dalby,UAP,United Australia,M,0
-Perth,WA,Patrick,Gorman,ALP,Labor,M,1
-Perth,WA,Caroline,Perks,GRN,Greens,F,0
 Perth,WA,David,Dwyer,LIB,Liberal,M,0
 Perth,WA,Sonya,Eberhart,UAP,United Australia,F,0
+Perth,WA,Patrick,Gorman,ALP,Labor,M,1
+Perth,WA,Evan,Nickols,LDP,Liberal Democrats,M,0
+Perth,WA,Caroline,Perks,GRN,Greens,F,0
+Perth,WA,Dean,Powell,CHR,Australian Christians,M,0
+Perth,WA,Sarah,Szmekura-Moor,AJP,Animal Justice,F,0
 Petrie,QLD,Chris,Cicchitti,AJP,Animal Justice,M,0
 Petrie,QLD,Mick,Denton,ALP,Labor,M,0
-Petrie,QLD,Will,Simon,GRN,Greens,M,0
-Petrie,QLD,Luke,Howarth,LNP,Liberal National,M,1
 Petrie,QLD,Kelly,Guenoun,UAP,United Australia,F,0
-Rankin,QLD,Suzanne,Clarke,AJP,Animal Justice,F,0
+Petrie,QLD,Luke,Howarth,LNP,Liberal National,M,1
+Petrie,QLD,Will,Simon,GRN,Greens,M,0
 Rankin,QLD,Jim,Chalmers,ALP,Labor,M,1
+Rankin,QLD,Suzanne,Clarke,AJP,Animal Justice,F,0
+Rankin,QLD,Glen,Cookson,ON,One Nation,M,0
 Rankin,QLD,Neil,Cotter,GRN,Greens,M,0
 Rankin,QLD,Jeffery,Crank,UAP,United Australia,M,0
-Reid,NSW,Sally,Sitou,ALP,Labor,F,0
-Reid,NSW,Simeon,Boikov,IND,Independent,M,0
 Reid,NSW,Natalie,Baini,IND,Independent,F,0
-Reid,NSW,Fiona,Martin,LIB,Liberal,F,1
+Reid,NSW,Simeon,Boikov,IND,Independent,M,0
 Reid,NSW,Jamal,Daoud,UAP,United Australia,M,0
+Reid,NSW,Charles,Jago,GRN,Greens,M,0
+Reid,NSW,Sahar,Khalili,FUS,Fusion,F,0
+Reid,NSW,Fiona,Martin,LIB,Liberal,F,1
+Reid,NSW,Clinton,Mead,LDP,Liberal Democrats,M,0
+Reid,NSW,Sally,Sitou,ALP,Labor,F,0
+Richmond,NSW,Gary,Biggs,LDP,Liberal Democrats,M,0
 Richmond,NSW,Justine,Elliot,ALP,Labor,F,1
-Richmond,NSW,Mandy,Nolan,GRN,Greens,F,0
-Richmond,NSW,Monica,Shepherd,IMO,Informed Medical Options,F,0
+Richmond,NSW,Kimberley,Hone,NAT,Nationals,F,0
 Richmond,NSW,Nathan,Jones,IND,Independent,M,0
 Richmond,NSW,Rob,Marks,UAP,United Australia,M,0
-Riverina,NSW,Pennie,Scott,IND,Independent,F,0
-Riverina,NSW,Dean,McCrae,LDP,Liberal Democrats,M,0
-Riverina,NSW,Michael,McCormack,NAT,Nationals,M,1
+Richmond,NSW,Mandy,Nolan,GRN,Greens,F,0
+Richmond,NSW,Monica,Shepherd,IMO,Informed Medical Options,F,0
+Riverina,NSW,Mark,Jeffreson,ALP,Labor,M,0
 Riverina,NSW,Daniel,Martelozzo,UAP,United Australia,M,0
-Robertson,NSW,Paul,Borthwick,ACP,Australian Christians,M,0
-Robertson,NSW,Gordon,Reid,ALP,Labor,M,0
-Robertson,NSW,Jeff,Lawson,IAP,Indigenous-Aboriginal Party,F,0
-Robertson,NSW,Vania,Holt,IND,Independent,F,0
-Robertson,NSW,Bentley,Logan,LDP,Liberal Democrats,M,0
-Robertson,NSW,Lucy,Wicks,LIB,Liberal,F,1
+Riverina,NSW,Michael,McCormack,NAT,Nationals,M,1
+Riverina,NSW,Dean,McCrae,LDP,Liberal Democrats,M,0
+Riverina,NSW,Michael,Organ,GRN,Greens,M,0
+Riverina,NSW,Pennie,Scott,IND,Independent,F,0
 Robertson,NSW,Melinda,Arnold,TNL,New Liberals,F,0
+Robertson,NSW,Paul,Borthwick,ACP,Citizens Party,M,0
+Robertson,NSW,Vania,Holt,IND,Independent,F,0
+Robertson,NSW,Jeff,Lawson,IAP,Indigenous-Aboriginal Party,F,0
+Robertson,NSW,Bentley,Logan,LDP,Liberal Democrats,M,0
+Robertson,NSW,Kate,Mason,IMO,Informed Medical Options,F,0
+Robertson,NSW,Shelly,McGrath,GRN,Greens,F,0
+Robertson,NSW,Patrick,Murphy,AJP,Animal Justice,M,0
 Robertson,NSW,Barbara-Jane,Murray,UAP,United Australia,F,0
-Ryan,QLD,Peter,Cossar,ALP,Labor,M,0
-Ryan,QLD,Elizabeth,Watson-Brown,GRN,Greens,F,0
-Ryan,QLD,Axel,Dancoisne,IND,Independent,M,0
+Robertson,NSW,Gordon,Reid,ALP,Labor,M,0
+Robertson,NSW,Lucy,Wicks,LIB,Liberal,F,1
 Ryan,QLD,Damian,Coory,LDP,Liberal Democrats,M,0
-Ryan,QLD,Julian,Simmonds,LNP,Liberal National,M,1
+Ryan,QLD,Peter,Cossar,ALP,Labor,M,0
+Ryan,QLD,Axel,Dancoisne,IND,Independent,M,0
 Ryan,QLD,Janine,Rees,PRO,Progressives,F,0
+Ryan,QLD,Julian,Simmonds,LNP,Liberal National,M,1
+Ryan,QLD,Elizabeth,Watson-Brown,GRN,Greens,F,0
 Ryan,QLD,Bernard,Wong,UAP,United Australia,M,0
-Scullin,VIC,Andrew,Giles,ALP,Labor,M,1
-Scullin,VIC,Patchouli,Paterson,GRN,Greens,F,0
 Scullin,VIC,Yassin,Albarri,UAP,United Australia,M,0
+Scullin,VIC,Andrew,Giles,ALP,Labor,M,1
+Scullin,VIC,Eric,Koelmeyer,LDP,Liberal Democrats,M,0
+Scullin,VIC,Jenny,Mulholland,LIB,Liberal,F,0
+Scullin,VIC,Patchouli,Paterson,GRN,Greens,F,0
 Scullin,VIC,Cameron,Rowe,VS,Victorian Socialists,M,0
+Scullin,VIC,Ursula,Van Bree,ON,One Nation,F,0
 Shortland,NSW,Pat,Conroy,ALP,Labor,M,1
-Shortland,NSW,Nell,McGill,LIB,Liberal,F,0
+Shortland,NSW,Kim,Grierson,GRN,Greens,F,0
+Shortland,NSW,Quintin,King,ON,One Nation,M,0
 Shortland,NSW,Kenneth,Maxwell,UAP,United Australia,M,0
+Shortland,NSW,Nell,McGill,LIB,Liberal,F,0
+Shortland,NSW,Barry,Reed,LDP,Liberal Democrats,M,0
+Shortland,NSW,Bree,Roberts,AJP,Animal Justice,F,0
+Solomon,NT,Kylie,Bonanni,LDP,Liberal Democrats,F,0
 Solomon,NT,Luke,Gosling,ALP,Labor,M,1
+Solomon,NT,Jed,Hansen,IND,Independent,M,0
 Solomon,NT,Tina,MacFarlane,CLP,Country Liberal,F,0
 Solomon,NT,Tayla,Selfe,UAP,United Australia,F,0
 Spence,SA,Matt,Burnell,ALP,Labor,M,0
+Spence,SA,Linda,Champion,ON,One Nation,F,0
 Spence,SA,David,Deex,GRN,Greens,M,0
-Spence,SA,Ritan,Zeid,LIB,Liberal,M,0
+Spence,SA,Daniel,Sugars,GAP,Great Australian Party,M,0
 Spence,SA,Alvin,Warren,UAP,United Australia,M,0
+Spence,SA,Ritan,Zeid,LIB,Liberal,M,0
 Sturt,SA,Sonja,Baram,ALP,Labor,F,0
 Sturt,SA,Inty,Elham,DA,Democratic Alliance,F,0
-Sturt,SA,Katie,McCusker,GRN,Greens,F,0
-Sturt,SA,James,Stevens,LIB,Liberal,M,1
-Sturt,SA,Chris,Schmidt,TNL,New Liberals,M,0
+Sturt,SA,Angela,Fulco,PRO,Progressives,F,0
 Sturt,SA,Stephen,Grant,UAP,United Australia,M,0
-Swan,WA,Zaneta,Mascarenhas,ALP,Labor,F,0
-Swan,WA,Clint,Uink,GRN,Greens,M,0
-Swan,WA,Kristy,McSweeney,LIB,Liberal,F,0
+Sturt,SA,Katie,McCusker,GRN,Greens,F,0
+Sturt,SA,Chris,Schmidt,TNL,New Liberals,M,0
+Sturt,SA,James,Stevens,LIB,Liberal,M,1
+Swan,WA,Dena,Gower,CHR,Australian Christians,F,0
+Swan,WA,Timothy,Green,AJP,Animal Justice,M,0
 Swan,WA,Paul,Hilton,UAP,United Australia,M,0
+Swan,WA,Zaneta,Mascarenhas,ALP,Labor,F,0
+Swan,WA,Kristy,McSweeney,LIB,Liberal,F,0
+Swan,WA,Tony,Stokes,IND,Independent,M,0
+Swan,WA,Clint,Uink,GRN,Greens,M,0
+Sydney,NSW,Andrew,Chuter,SA,Socialist Alliance,M,0
+Sydney,NSW,Vanessa,Hadchiti,UAP,United Australia,F,0
 Sydney,NSW,Tanya,Plibersek,ALP,Labor,F,1
 Sydney,NSW,Chetan,Sahai,GRN,Greens,M,0
-Sydney,NSW,Vanessa,Hadchiti,UAP,United Australia,F,0
+Tangney,WA,Jacqueline,Holroyd,LDP,Liberal Democrats,F,0
 Tangney,WA,Sam,Lim,ALP,Labor,M,0
-Tangney,WA,Adam Abdul,Razak,GRN,Greens,M,0
-Tangney,WA,Ben,Morton,LIB,Liberal,M,1
 Tangney,WA,Travis,Mark,UAP,United Australia,M,0
-Wannon,VIC,Gilbert,Wilson,ALP,Labor,M,0
-Wannon,VIC,Hilary,McAllister,GRN,Greens,F,0
+Tangney,WA,Ben,Morton,LIB,Liberal,M,1
+Tangney,WA,Adam Abdul,Razak,GRN,Greens,M,0
+Tangney,WA,Mark,Staer,CHR,Australian Christians,M,0
 Wannon,VIC,Alex,Dyson,IND,Independent,M,0
+Wannon,VIC,Craige,Kensen,UAP,United Australia,M,0
+Wannon,VIC,Hilary,McAllister,GRN,Greens,F,0
 Wannon,VIC,Amanda,Mead,LDP,Liberal Democrats,F,0
 Wannon,VIC,Dan,Tehan,LIB,Liberal,M,1
-Wannon,VIC,Craige,Kensen,UAP,United Australia,M,0
+Wannon,VIC,Gilbert,Wilson,ALP,Labor,M,0
+Warringah,NSW,Katherine,Deves,LIB,Liberal,F,0
 Warringah,NSW,Kristyn,Glanville,GRN,Greens,F,0
-Warringah,NSW,Zali,Steggall,IND,Independent,F,1
+Warringah,NSW,David,Mickelburgh,ALP,Labor,M,0
+Warringah,NSW,Kate,Paterson,AJP,Animal Justice,F,0
 Warringah,NSW,Andrew,Robertson,UAP,United Australia,M,0
+Warringah,NSW,Zali,Steggall,IND,Independent,F,1
+Warringah,NSW,Dajen,Tinkler,LDP,Liberal Democrats,M,0
+Warringah,NSW,Steven,Tripp,ON,One Nation,M,0
 Watson,NSW,Tony,Burke,ALP,Labor,M,1
 Watson,NSW,John,Koukoulis,UAP,United Australia,M,0
-Wentworth,NSW,Dominic,Wy Kanak,GRN,Greens,M,0
-Wentworth,NSW,Allegra,Spender,IND,Independent,F,0
-Wentworth,NSW,Daniel,Lewkovitz,LDP,Liberal Democrats,M,0
-Wentworth,NSW,Dave,Sharma,LIB,Liberal,M,1
+Watson,NSW,Bradley,Schott,GRN,Greens,M,0
 Wentworth,NSW,Natalie,Dumer,UAP,United Australia,F,0
+Wentworth,NSW,Daniel,Lewkovitz,LDP,Liberal Democrats,M,0
+Wentworth,NSW,Tim,Murray,ALP,Labor,M,0
+Wentworth,NSW,Dave,Sharma,LIB,Liberal,M,1
+Wentworth,NSW,Allegra,Spender,IND,Independent,F,0
+Wentworth,NSW,Dominic,Wy Kanak,GRN,Greens,M,0
+Werriwa,NSW,Sam,Kayal,LIB,Liberal,M,0
+Werriwa,NSW,Tony,Nikolic,UAP,United Australia,M,0
+Werriwa,NSW,Apurva,Shukla,GRN,Greens,M,0
 Werriwa,NSW,Anne,Stanley,ALP,Labor,F,1
 Werriwa,NSW,Victor,Tey,LDP,Liberal Democrats,M,0
-Werriwa,NSW,Wissam,Kayal,LIB,Liberal,M,0
-Werriwa,NSW,Tony,Nikolic,UAP,United Australia,M,0
+Whitlam,NSW,Mike,Cains,LIB,Liberal,M,0
+Whitlam,NSW,Jamie,Dixon,GRN,Greens,M,0
 Whitlam,NSW,Stephen,Jones,ALP,Labor,M,1
 Whitlam,NSW,Michael,Wheeler,LDP,Liberal Democrats,M,0
-Whitlam,NSW,Michael,Cains,LIB,Liberal,M,0
-Whitlam,NSW,Timothy,Banfield,UAP,United Australia,M,0
-Wide Bay,QLD,Geoff,Williams,ALP,Labor,M,0
+Whitlam,NSW,Allan,Wode,UAP,United Australia,M,0
 Wide Bay,QLD,Craig,Armstrong,GRN,Greens,M,0
-Wide Bay,QLD,Andrea,Newland,IMO,Informed Medical Options,F,0
-Wide Bay,QLD,Tim,Jerome,IND,Independent,M,0
-Wide Bay,QLD,Llew,O'Brien,LNP,Liberal National,M,1
 Wide Bay,QLD,Tracy,Bennett,UAP,United Australia,F,0
-Wills,VIC,Peter,Khalil,ALP,Labor,M,1
-Wills,VIC,Sarah,Jefford,GRN,Greens,F,0
-Wills,VIC,Amanda,Elisabeth,LIB,Liberal,F,0
+Wide Bay,QLD,Nathan,Buckley,ON,One Nation,M,0
+Wide Bay,QLD,Kelli,Jacobi,IND,Independent,F,0
+Wide Bay,QLD,Tim,Jerome,IND,Independent,M,0
+Wide Bay,QLD,Andrea,Newland,IMO,Informed Medical Options,F,0
+Wide Bay,QLD,Llew,O'Brien,LNP,Liberal National,M,1
+Wide Bay,QLD,Daniel,Williams,AVP,Australian Values,M,0
+Wide Bay,QLD,Geoff,Williams,ALP,Labor,M,0
+Wills,VIC,Emma,Black,VS,Victorian Socialists,F,0
 Wills,VIC,Sue,Bolton,SA,Socialist Alliance,F,0
 Wills,VIC,Michael,El-Hajja,UAP,United Australia,M,0
-Wills,VIC,Emma,Black,VS,Victorian Socialists,F,0
-Wright,QLD,Pam,McCreadie,ALP,Labor,F,0
-Wright,QLD,Nicole,Thompson,GRN,Greens,F,0
+Wills,VIC,Leah,Horsfall,AJP,Animal Justice,F,0
+Wills,VIC,Sarah,Jefford,GRN,Greens,F,0
+Wills,VIC,Peter,Khalil,ALP,Labor,M,1
+Wills,VIC,Tom,Wright,LIB,Liberal,M,0
 Wright,QLD,Scott,Buchholz,LNP,Liberal National,M,1
 Wright,QLD,Cassandra,Duffill,UAP,United Australia,F,0
+Wright,QLD,Keith,Hicks,ON,One Nation,M,0
+Wright,QLD,Pam,McCreadie,ALP,Labor,F,0
+Wright,QLD,Nicole,Thompson,GRN,Greens,F,0
